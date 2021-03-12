@@ -1,0 +1,26 @@
+### Empty request to server
+GET http://localhost:8000/
+
+### Request to login | Very hard to pull off this POST successfully | Google access tokens last 3.5 seconds
+POST http://localhost:8000/auth/login
+Content-Type: application/json
+
+{
+    "token": "eyJhbGciOiJSUzI1NiIsImtpZCI6ImZiOGNhNWI3ZDhkOWE1YzZjNjc4ODA3MWU4NjZjNmM0MGYzZmMxZjkiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJhY2NvdW50cy5nb29nbGUuY29tIiwiYXpwIjoiNDgxODUyNTY3MjM5LXJua24wMDIxMjRqNzhpaTJpYnRyY3U5YjQ0cm52cmgxLmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwiYXVkIjoiNDgxODUyNTY3MjM5LXJua24wMDIxMjRqNzhpaTJpYnRyY3U5YjQ0cm52cmgxLmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwic3ViIjoiMTA1ODQ2Nzg2ODY0MzczMDk0MDQ1IiwiZW1haWwiOiJhbWlrbWFuZGFsMUBnbWFpbC5jb20iLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwiYXRfaGFzaCI6IjEwMU85Ulh6NXFPcURwT1hWeUE4UkEiLCJuYW1lIjoiQW1payBNYW5kYWwiLCJwaWN0dXJlIjoiaHR0cHM6Ly9saDQuZ29vZ2xldXNlcmNvbnRlbnQuY29tLy1jdlI1RllJMWlKUS9BQUFBQUFBQUFBSS9BQUFBQUFBQUFBQS9BTVp1dWNubGdILXpPUFRhRmFJay1VdHFEV3BGbE1rYVNRL3M5Ni1jL3Bob3RvLmpwZyIsImdpdmVuX25hbWUiOiJBbWlrIiwiZmFtaWx5X25hbWUiOiJNYW5kYWwiLCJsb2NhbGUiOiJlbiIsImlhdCI6MTU5MDY4ODY1MywiZXhwIjoxNTkwNjkyMjUzLCJqdGkiOiI2MjcxMjA1NjIwMWQxYTM3NGQ2MTcxMmI5ZTRkOGI2OGZkZGRlOTVkIn0.Zkrbv-UdoaTBLFxh1QjDv6uBn_m0wJRQMdexMPUNOk2c-KTGeI26BeZ6-KnE7DrMSP8_qY5bs33IZMo4FgadG7DR8NP1PfdZFtdFDdC8OIcsy2JF9pnpF7yG0S_1GcuV0TWY2ne1VXyUZULps0wRWaG3Abd_c1j0RLEC4szq3DC6-Wufa5UhkV_ElGfXey8gliWa1oSIM5JSdHRs3LLVFcx-CmtDSUBxUlQ5hAzRzpJKzHSJbeLxWGOUJaTv9uEFS6LC3x62H7opUk1XItz8i8BFQZhEbLkot8X_mFVM0SExBcSWuWxNStyffQ94vH9Ad5OsQ9kh3K_1ILVfTNS_qg"
+}
+
+### Check Valid access token
+POST http://localhost:8000/auth/isvalidtoken
+Content-Type: application/json
+
+{
+    "token": "undefined"
+}
+
+### Check Valid Page
+POST http://localhost:8000/page/isvalidpage
+Content-Type: application/json
+
+{
+    "id": "105846786864373094045"
+}

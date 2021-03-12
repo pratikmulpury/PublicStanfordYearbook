@@ -1,0 +1,7 @@
+.mb-8 button {
+    float:none;
+    position:static;
+    display:block;
+    margin-top: 1em;
+    width:max-content;
+  }

@@ -1,0 +1,410 @@
+[
+    {
+      "value": "Aeronautics and Astronautics",
+      "label": "Aeronautics and Astronautics"
+    },
+    {
+      "value": "African and African American Studies",
+      "label": "African and African American Studies"
+    },
+    {
+      "value": "African Studies",
+      "label": "African Studies"
+    },
+    {
+      "value": "American Studies",
+      "label": "American Studies"
+    },
+    {
+      "value": "Anthropology",
+      "label": "Anthropology"
+    },
+    {
+      "value": "Applied and Engineering Physics",
+      "label": "Applied and Engineering Physics"
+    },
+    {
+      "value": "Applied and Engineering Physics",
+      "label": "Applied and Engineering Physics"
+    },
+    {
+      "value": "Archaeology",
+      "label": "Archaeology"
+    },
+    {
+      "value": "Archaeology",
+      "label": "Archaeology"
+    },
+    {
+      "value": "Architectural Design",
+      "label": "Architectural Design"
+    },
+    {
+      "value": "Art History",
+      "label": "Art History"
+    },
+    {
+      "value": "Art Practice",
+      "label": "Art Practice"
+    },
+    {
+      "value": "Asian American Studies",
+      "label": "Asian American Studies"
+    },
+    {
+      "value": "Atmosphere/ Energy",
+      "label": "Atmosphere/ Energy"
+    },
+    {
+      "value": "Bioengineering",
+      "label": "Bioengineering"
+    },
+    {
+      "value": "Biology",
+      "label": "Biology"
+    },
+    {
+      "value": "Biomechanical Engineering",
+      "label": "Biomechanical Engineering"
+    },
+    {
+      "value": "Biomedical Computation",
+      "label": "Biomedical Computation"
+    },
+    {
+      "value": "Chemical Engineering",
+      "label": "Chemical Engineering"
+    },
+    {
+      "value": "Chemistry",
+      "label": "Chemistry"
+    },
+    {
+      "value": "Chicana/o - Latina/o Studies",
+      "label": "Chicana/o - Latina/o Studies"
+    },
+    {
+      "value": "China Studies",
+      "label": "China Studies"
+    },
+    {
+      "value": "Civil and Environmental Engineering",
+      "label": "Civil and Environmental Engineering"
+    },
+    {
+      "value": "Classics",
+      "label": "Classics"
+    },
+    {
+      "value": "Communication",
+      "label": "Communication"
+    },
+    {
+      "value": "Community Health and Prevention Research",
+      "label": "Community Health and Prevention Research"
+    },
+    {
+      "value": "Comparative Literature",
+      "label": "Comparative Literature"
+    },
+    {
+      "value": "Comparative Studies in Race and Ethnicity",
+      "label": "Comparative Studies in Race and Ethnicity"
+    },
+    {
+      "value": "Computer Science",
+      "label": "Computer Science"
+    },
+    {
+      "value": "Creative Writing",
+      "label": "Creative Writing"
+    },
+    {
+      "value": "Dance (TAPS Minor)",
+      "label": "Dance (TAPS Minor)"
+    },
+    {
+      "value": "Democracy, Development, and the Rule of Law",
+      "label": "Democracy, Development, and the Rule of Law"
+    },
+    {
+      "value": "Digital Humanities",
+      "label": "Digital Humanities"
+    },
+    {
+      "value": "Earth Systems",
+      "label": "Earth Systems"
+    },
+    {
+      "value": "East Asian Studies",
+      "label": "East Asian Studies"
+    },
+    {
+      "value": "Economics",
+      "label": "Economics"
+    },
+    {
+      "value": "Education",
+      "label": "Education"
+    },
+    {
+      "value": "Electrical Engineering",
+      "label": "Electrical Engineering"
+    },
+    {
+      "value": "Energy Resources Engineering",
+      "label": "Energy Resources Engineering"
+    },
+    {
+      "value": "Engineering Physics",
+      "label": "Engineering Physics"
+    },
+    {
+      "value": "English",
+      "label": "English"
+    },
+    {
+      "value": "Environmental Systems Engineering",
+      "label": "Environmental Systems Engineering"
+    },
+    {
+      "value": "Ethics In Society",
+      "label": "Ethics In Society"
+    },
+    {
+      "value": "European Studies",
+      "label": "European Studies"
+    },
+    {
+      "value": "Feminist, Gender, and Sexuality Studies",
+      "label": "Feminist, Gender, and Sexuality Studies"
+    },
+    {
+      "value": "Film and Media Studies",
+      "label": "Film and Media Studies"
+    },
+    {
+      "value": "French",
+      "label": "French"
+    },
+    {
+      "value": "Geological Sciences",
+      "label": "Geological Sciences"
+    },
+    {
+      "value": "Geophysics",
+      "label": "Geophysics"
+    },
+    {
+      "value": "German Studies",
+      "label": "German Studies"
+    },
+    {
+      "value": "Global Studies",
+      "label": "Global Studies"
+    },
+    {
+      "value": "History",
+      "label": "History"
+    },
+    {
+      "value": "Honors in the Arts",
+      "label": "Honors in the Arts"
+    },
+    {
+      "value": "Human Biology",
+      "label": "Human Biology"
+    },
+    {
+      "value": "Human Rights",
+      "label": "Human Rights"
+    },
+    {
+      "value": "Iberian & Latin American Cultures",
+      "label": "Iberian & Latin American Cultures"
+    },
+    {
+      "value": "International Policy Studies",
+      "label": "International Policy Studies"
+    },
+    {
+      "value": "International Relations",
+      "label": "International Relations"
+    },
+    {
+      "value": "International Security Studies",
+      "label": "International Security Studies"
+    },
+    {
+      "value": "Iranian Studies",
+      "label": "Iranian Studies"
+    },
+    {
+      "value": "Islamic Studies",
+      "label": "Islamic Studies"
+    },
+    {
+      "value": "Italian",
+      "label": "Italian"
+    },
+    {
+      "value": "Japanese",
+      "label": "Japanese"
+    },
+    {
+      "value": "Jewish Studies",
+      "label": "Jewish Studies"
+    },
+    {
+      "value": "Korean",
+      "label": "Korean"
+    },
+    {
+      "value": "Laboratory Animal Science",
+      "label": "Laboratory Animal Science"
+    },
+    {
+      "value": "Latin American Studies",
+      "label": "Latin American Studies"
+    },
+    {
+      "value": "Linguistics",
+      "label": "Linguistics"
+    },
+    {
+      "value": "Management Science and Engineering",
+      "label": "Management Science and Engineering"
+    },
+    {
+      "value": "Materials Science and Engineering",
+      "label": "Materials Science and Engineering"
+    },
+    {
+      "value": "Mathematical and Computational Science",
+      "label": "Mathematical and Computational Science"
+    },
+    {
+      "value": "Mathematics",
+      "label": "Mathematics"
+    },
+    {
+      "value": "Mechanical Engineering",
+      "label": "Mechanical Engineering"
+    },
+    {
+      "value": "Medieval Studies",
+      "label": "Medieval Studies"
+    },
+    {
+      "value": "Middle Eastern Language, Literature and Culture",
+      "label": "Middle Eastern Language, Literature and Culture"
+    },
+    {
+      "value": "Modern Languages",
+      "label": "Modern Languages"
+    },
+    {
+      "value": "Modern Thought and Literature",
+      "label": "Modern Thought and Literature"
+    },
+    {
+      "value": "Music",
+      "label": "Music"
+    },
+    {
+      "value": "Music, Science, and Technology",
+      "label": "Music, Science, and Technology"
+    },
+    {
+      "value": "Native American Studies",
+      "label": "Native American Studies"
+    },
+    {
+      "value": "Philosophy",
+      "label": "Philosophy"
+    },
+    {
+      "value": "Philosophy and Religious Studies",
+      "label": "Philosophy and Religious Studies"
+    },
+    {
+      "value": "Physics",
+      "label": "Physics"
+    },
+    {
+      "value": "Political Science",
+      "label": "Political Science"
+    },
+    {
+      "value": "Portuguese",
+      "label": "Portuguese"
+    },
+    {
+      "value": "Product Design",
+      "label": "Product Design"
+    },
+    {
+      "value": "Psychology",
+      "label": "Psychology"
+    },
+    {
+      "value": "Public Policy",
+      "label": "Public Policy"
+    },
+    {
+      "value": "Religious Studies",
+      "label": "Religious Studies"
+    },
+    {
+      "value": "Science, Technology, and Society",
+      "label": "Science, Technology, and Society"
+    },
+    {
+      "value": "Slavic Languages and Literatures",
+      "label": "Slavic Languages and Literatures"
+    },
+    {
+      "value": "Sociology",
+      "label": "Sociology"
+    },
+    {
+      "value": "South Asian Studies",
+      "label": "South Asian Studies"
+    },
+    {
+      "value": "Spanish",
+      "label": "Spanish"
+    },
+    {
+      "value": "Statistics",
+      "label": "Statistics"
+    },
+    {
+      "value": "Sustainability",
+      "label": "Sustainability"
+    },
+    {
+      "value": "Symbolic Systems",
+      "label": "Symbolic Systems"
+    },
+    {
+      "value": "Theater and Performance Studies",
+      "label": "Theater and Performance Studies"
+    },
+    {
+      "value": "Translation Studies",
+      "label": "Translation Studies"
+    },
+    {
+      "value": "Urban Studies",
+      "label": "Urban Studies"
+    },
+    {
+      "value": "Off Campus",
+      "label": "Off Campus"
+    },
+    {
+      "value": "Other",
+      "label": "Other"
+    }
+   ]
